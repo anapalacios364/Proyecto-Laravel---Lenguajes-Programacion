@@ -12,7 +12,7 @@ class CreateRecetitasTable extends Migration
      */
     public function up()
     {
-    Schema::create('recetitas', function (Blueprint $table) {
+        Schema::create('recetitas', function (Blueprint $table) {
                  $table->increments('id');
                  $table->String('nombre');
                  $table->String('mail');
