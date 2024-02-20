@@ -19,6 +19,7 @@ class RecetitasController extends Controller
        $recetitas = DB::table('recetitas')->get();
         return view('recetitas.recetitas',['recetitas'=>$recetitas]);
     }
+    /**hola//**
 
     /**
      * Show the form for creating a new resource.
