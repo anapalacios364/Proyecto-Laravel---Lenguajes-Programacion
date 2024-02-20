@@ -23,7 +23,7 @@ class CreateRecetitasTable extends Migration
             $table->timestamps();
         });
     }
-
+   /*ana*/
     /**
      * Reverse the migrations.
      *
