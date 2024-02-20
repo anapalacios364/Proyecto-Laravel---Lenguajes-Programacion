@@ -15,20 +15,20 @@ class RecetitasController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {
-       $recetitas = DB::table('recetitas')->get();
-        return view('recetitas.recetitas',['recetitas'=>$recetitas]);
-    }
-    /**hola//**
+        {
+           $recetitas = DB::table('recetitas')->get();
+            return view('recetitas.recetitas',['recetitas'=>$recetitas]);
+        }
+        /**hola//**
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        return view('recetitas.recetitas');    }
+        /**
+         * Show the form for creating a new resource.
+         *
+         * @return \Illuminate\Http\Response
+         */
+        public function create()
+        {
+            return view('recetitas.recetitas');    }
 
     /**
      * Store a newly created resource in storage.
