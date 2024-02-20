@@ -64,7 +64,7 @@
                 </div>
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
-                    <!-- Portfolio Item 1-->
+                    <!-- Portfolio Item 1 Carbonara-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -73,7 +73,7 @@
                             <img class="img-fluid" src="Recetas/Carbonara.jpg" alt="..." />
                         </div>
                     </div>
-                    <!-- Portfolio Item 2-->
+                    <!-- Portfolio Item 2 Hamburguesa-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -82,7 +82,7 @@
                             <img class="img-fluid" src="Recetas/Hamburguesa.jpg" alt="..." />
                         </div>
                     </div>
-                    <!-- Portfolio Item 3-->
+                    <!-- Portfolio Item 3 Limonada-->
                     <div class="col-md-6 col-lg-4 mb-5">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -91,7 +91,7 @@
                             <img class="img-fluid" src="Recetas/Limonada.jpg" alt="..." />
                         </div>
                     </div>
-                    <!-- Portfolio Item 4-->
+                    <!-- Portfolio Item 4 Menestron-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -100,7 +100,7 @@
                             <img class="img-fluid" src="Recetas/Menestron.jpg" alt="..." />
                         </div>
                     </div>
-                    <!-- Portfolio Item 5-->
+                    <!-- Portfolio Item 5 Muffins-->
                     <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
@@ -109,7 +109,7 @@
                             <img class="img-fluid" src="Recetas/Muffins.jpg" alt="..." />
                         </div>
                     </div>
-                    <!-- Portfolio Item 6-->
+                    <!-- Portfolio Item 6 Copa Mexicana-->
                     <div class="col-md-6 col-lg-4">
                         <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
