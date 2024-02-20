@@ -20,6 +20,9 @@ class CreateRecetitasTable extends Migration
             $table->String('telefono');
             $table->String('comentario');
 
+
+
+
             $table->timestamps();
         });
     }
