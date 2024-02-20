@@ -37,11 +37,17 @@ class RecetitasController extends Controller
      */
     public function store(Request $request)
     {
-        recetitas::create($request->all());
-        return redirect()->route('recetitas.index')
-            ->with('Completado', 'Contact Form creado!');
-    }
+        // Proyectos::create($request->all());
+        $proyecto = new Proyectos();
+        $proyecto -> nombre = $request->post('email');
+        $proyecto -> mail = $request->post('contra');
+        $proyecto -> telfono = $request->post('contra');
+        $proyecto -> comentario = $request->post('contra');
 
+        $proyecto->save();
+        return redirect()->route('index.index');
+
+    }
     /**
      * Display the specified resource.
      *
